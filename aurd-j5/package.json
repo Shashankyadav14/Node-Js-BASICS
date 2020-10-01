@@ -1,0 +1,16 @@
+{
+  "name": "arduino",
+  "version": "1.0.0",
+  "description": "Sensor testing with j5 using Arduino",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "johnny-five": "^1.3.1"
+  }
+}
